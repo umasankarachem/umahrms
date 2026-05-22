@@ -1,6 +1,6 @@
 ### erpnexthrms
 
-**ERPNext Payroll Module:** Configure flexible salary components (fixed/formula-based) with GL mapping, process payroll via preview report with filters, and auto-generate journal entries based on company/employee-level settings.
+hrms
 
 ### Installation
 
